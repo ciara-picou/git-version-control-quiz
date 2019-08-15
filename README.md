@@ -66,7 +66,7 @@
 ?: Which of the following is the correct way to send code to a remote repo for the first time?
 
 ( ) `git push`
-(X) `git push origin master`
+(X) `git push -u origin master`
 ( ) `git send`
 ( ) `git push new`
 
